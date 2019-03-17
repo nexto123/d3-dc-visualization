@@ -1,5 +1,14 @@
-# d3-dc-visualization
-##Gender in Acadaemia
+# D3 && Dc visualization Project
 
- >You can watch the live version here:
- https://nexto123.github.io/d3-dc-visualization/
+## Gender in Acadaemia
+
+ [Live version here](https://nexto123.github.io/d3-dc-visualization/)
+ 
+ 
+ ### Author:
+ 
+ Ernest Bruce Brown
+ 
+ ### Acknowledgement:
+ 
+ Code Institute 
